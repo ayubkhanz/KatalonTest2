@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite -01,Firefox 75.0,,,2020-05-13 18:50:04,2020-05-13 18:51:54,1m - 50.861s,PASSED
+,,,,,,,
+Test Cases/TC001,Firefox 75.0,,,2020-05-13 18:50:05,2020-05-13 18:51:15,1m - 10.823s,PASSED
+"openBrowser("""")",Firefox 75.0,,,2020-05-13 18:50:05,2020-05-13 18:50:57,51.597s,PASSED
+maximizeWindow(),Firefox 75.0,,,2020-05-13 18:50:57,2020-05-13 18:50:57,0.416s,PASSED
+"navigateToUrl(""www.eenadu.net"")",Firefox 75.0,,,2020-05-13 18:50:57,2020-05-13 18:51:07,10.092s,PASSED
+closeBrowser(),Firefox 75.0,,,2020-05-13 18:51:07,2020-05-13 18:51:15,8.193s,PASSED
+,,,,,,,
+Test Cases/TC002,Firefox 75.0,,,2020-05-13 18:51:16,2020-05-13 18:51:54,38.948s,PASSED
+"openBrowser("""")",Firefox 75.0,,,2020-05-13 18:51:16,2020-05-13 18:51:21,5.450s,PASSED
+maximizeWindow(),Firefox 75.0,,,2020-05-13 18:51:21,2020-05-13 18:51:22,0.278s,PASSED
+"navigateToUrl(""ndtv.com"")",Firefox 75.0,,,2020-05-13 18:51:22,2020-05-13 18:51:48,26.771s,PASSED
+closeBrowser(),Firefox 75.0,,,2020-05-13 18:51:48,2020-05-13 18:51:54,6.023s,PASSED

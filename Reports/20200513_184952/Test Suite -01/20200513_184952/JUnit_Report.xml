@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Test Suite -01" time="111.882" tests="2" failures="0" errors="0">
+   <testsuite name="Test Suite -01" tests="2" failures="0" errors="0" time="111.882" timestamp="2020-05-13 18:50:04" hostname="Administrator - irfan-PC" id="Test Suites/Test Suite -01">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Administrator\\git\\KatalonTest2\\Reports\\20200513_184952\\Test Suite -01\\20200513_184952"/>
+         <property name="logFiles" value="C:\\Users\\Administrator\\git\\KatalonTest2\\Reports\\20200513_184952\\Test Suite -01\\20200513_184952\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Administrator - irfan-PC"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="7.4.0.1"/>
+         <property name="browser" value="Firefox 75.0"/>
+         <property name="hostAddress" value="192.168.87.1"/>
+         <property name="sessionId" value="d1c58510-1491-490e-ab52-0d232b2ed3eb"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0, executionList=}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TC001" time="70.823" classname="Test Cases/TC001" status="PASSED">
+         <system-out><![CDATA[2020-05-13 18:50:05 - [TEST_CASE][PASSED] - Test Cases/TC001: Test Cases/TC001
+
+2020-05-13 18:50:05 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2020-05-13 18:50:06 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2020-05-13 18:50:06 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2020-05-13 18:50:57 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2020-05-13 18:50:57 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2020-05-13 18:50:57 - [MESSAGE][PASSED] - Current window maximized
+
+2020-05-13 18:50:57 - [TEST_STEP][PASSED] - navigateToUrl("www.eenadu.net"): Navigate to 'http://www.eenadu.net' successfully
+
+2020-05-13 18:51:07 - [MESSAGE][PASSED] - Navigate to 'http://www.eenadu.net' successfully
+
+2020-05-13 18:51:07 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2020-05-13 18:51:15 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC002" time="38.948" classname="Test Cases/TC002" status="PASSED">
+         <system-out><![CDATA[2020-05-13 18:51:16 - [TEST_CASE][PASSED] - Test Cases/TC002: Test Cases/TC002
+
+2020-05-13 18:51:16 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2020-05-13 18:51:16 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2020-05-13 18:51:16 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2020-05-13 18:51:21 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2020-05-13 18:51:21 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2020-05-13 18:51:22 - [MESSAGE][PASSED] - Current window maximized
+
+2020-05-13 18:51:22 - [TEST_STEP][PASSED] - navigateToUrl("ndtv.com"): Navigate to 'http://ndtv.com' successfully
+
+2020-05-13 18:51:48 - [MESSAGE][PASSED] - Navigate to 'http://ndtv.com' successfully
+
+2020-05-13 18:51:48 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2020-05-13 18:51:54 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2020-05-13 18:50:04 - [TEST_SUITE][PASSED] - Test Suite -01: Test Cases/TC002]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
